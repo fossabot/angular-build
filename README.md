@@ -7,6 +7,7 @@ angular-build
 [![npm version](https://badge.fury.io/js/%40bizappframework%2Fangular-build.svg)](https://badge.fury.io/js/%40bizappframework%2Fangular-build)
 [![Dependency Status](https://david-dm.org/bizappframework/angular-build.svg)](https://david-dm.org/bizappframework/angular-build)
 [![npm](https://img.shields.io/npm/dm/@bizappframework/angular-build.svg)](https://www.npmjs.com/package/@bizappframework/angular-build)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmmzliveid%2Fangular-build.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmmzliveid%2Fangular-build?ref=badge_shield)
 
 What is this
 ---------------
@@ -50,3 +51,7 @@ License
 ---------------
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmmzliveid%2Fangular-build.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmmzliveid%2Fangular-build?ref=badge_large)
